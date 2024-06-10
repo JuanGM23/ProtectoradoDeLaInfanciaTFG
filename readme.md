@@ -1,24 +1,5 @@
 # Proyecto: Residencia de Estudiantes "Protectorado de la Infancia"
 
-## Índice
-
-1. [Introducción](## Introducción)
-2. [Descripción General](## Descripción General)
-3. [Estructura del Proyecto](## Estructura del Proyecto)
-4. [Página Principal (Main Page)](## Página Principal (Main Page))
-5. [Detalles de la Residencia](## Descripción General)
-6. [Servicios Incluidos](## Servicios Ofrecidos)
-7. [Servicios Complementarios](## Servicios Ofrecidos)
-8. [Actividades y Facilidades](## Servicios Ofrecidos)
-9. [Información de Contacto](## Contacto)
-10. [Encabezado y Pie de Página](## Estructura del Proyecto)
-11. [Acerca de Nosotros](# Acerca De Nosotros)
-12. [Servicios Ofrecidos](# Servicios Ofrecidos)
-13. [Equipo](# Equipo)
-14. [Contacto](# Contacto)
-15. [Tienda](# Tienda)
-16. [ResumenTFG](## Resumen TFG)
-
 ## Introducción
 
 La residencia de estudiantes "Protectorado de la Infancia" surge como respuesta a la creciente demanda de espacios habitacionales que no solo proporcionen comodidad y funcionalidad, sino que también promuevan un ambiente seguro y acogedor para los estudiantes. Este proyecto busca ofrecer mucho más que un simple lugar para alojarse; aspira a convertirse en un hogar lejos del hogar, donde los estudiantes puedan no solo vivir, sino también crecer y desarrollarse tanto académica como personalmente.
